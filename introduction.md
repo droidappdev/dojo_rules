@@ -10,3 +10,4 @@ My Deadly skills
 *Javascript
 *Java
 *C++
+*Killing history using git rebase
